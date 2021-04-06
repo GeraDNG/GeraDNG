@@ -4,7 +4,7 @@
 Sígueme en Instagram como [GeraDNG](https://instagram.com/GeraDNG).
 
 
-A lo largo de mi carrera tuve la oportunidad de conocer distintos lenguajes de programación, entre ellos se ecuentran:
+A lo largo de mi carrera, tuve la oportunidad de aprender sobre circuitos electrónicos, diseño 3D, diseño de PCB y distintos lenguajes de programación, entre ellos se ecuentran:
 * C.
 * C#.
 * C++.
@@ -16,7 +16,7 @@ A lo largo de mi carrera tuve la oportunidad de conocer distintos lenguajes de p
 * JavaScript.
 * PHP.
 * CSS.
-* Sherlock (sowftware de visión computacional).
+* Sherlock (software de visión computacional).
 * ROS (Robot Operating System).
 * Kotlin (lenguaje para desarrollo de aplicaciones móviles de Android).
 * Swift (lenguaje para desarrollo de aplicaciones móviles de iOS).
