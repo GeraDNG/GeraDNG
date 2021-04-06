@@ -1,7 +1,7 @@
 # ¡Hola! Soy Gerardo 👨‍💻
 ## Soy Ingeniero en Sistemas Digitales y Robótica. Estudié en el Tecnológico de Monterrey, campus Querétaro.
 
-Sígueme en redes sociales como: GeraDNG. [Instagram](https://instagram.com/GeraDNG) o contáctame por correo electrónico gerardodaniel96@hotmail.com
+Sígueme en Instagram como [GeraDNG](https://instagram.com/GeraDNG).
 
 
 A lo largo de mi carrera tuve la oportunidad de conocer distintos lenguajes de programación, entre ellos se ecuentran:
