@@ -24,7 +24,7 @@ A lo largo de mi carrera, tuve la oportunidad de aprender sobre circuitos electr
 
 También, he desarrollado labores como:
 * Automatización para la toma de fotografías en juegos mecánicos para IW Digital.
-* Labores de Internet de las cosas, con monitoreo de sensores en tiempo real, para Parrot Labs.
+* Labores de Internet de las cosas (IoT), con monitoreo de sensores en tiempo real, para Parrot Labs.
 * Actualmente, desarrollo para Magic Home en [sitio web](https://magichome.app/), [aplicación para iOS](https://apps.apple.com/us/app/magic-home/id1545881657), aplicación para Android, software y hardware.
 
 
