@@ -28,3 +28,5 @@ A lo largo de mi carrera, tuve la oportunidad de aprender sobre circuitos electr
 En mi GitHub podrás encontrar algunos de los proyectos que he realizado, generalmente como estudiante o en tiempo libre, esperando que sean de utilidad para todos.
 
 Puedes seguirme en Instagram como [GeraDNG](https://instagram.com/GeraDNG).
+
+Finalmente, puedes encontrar mi [título profesional](https://certificados.tec.mx/certificate/64ae77d6a2d75344a8e97615e285d926) emitido por el Tecnológico de Monterrey en la blockchain de Ethereum.
